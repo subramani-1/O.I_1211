@@ -1,0 +1,51 @@
+*{margin: 0;
+padding:0;}
+
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.one,.two{
+    margin-top: 10px;
+    font-weight: 100;
+    
+}
+.one{
+     color: rgb(0, 152, 212);
+}
+.two{
+    color: rgb(255, 196, 0);
+}
+.three {
+    padding-top: 16px;
+}
+.three1{
+    padding-left: 10px;
+
+  
+}
+.near1{
+    color: rgb(255, 196, 0) ;
+
+}
+.near2{
+ color: rgb(0, 152, 212);
+
+}
+.png{
+    padding-left: 30px;
+}
+.l1{
+    padding-top: 5px;
+   
+}
+.l2{
+    padding-top: 5px;
+    color: rgb(0, 152, 212);
+}
+.l3{
+    color:  rgb(255, 196, 0) ;
+}
+.l{
+    text-align: center;width: 130px;
+}
